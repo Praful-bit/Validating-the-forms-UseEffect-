@@ -1,4 +1,3 @@
-// Login.js
 
 import React, { useReducer, useState } from 'react';
 import Card from '../UI/Card/Card';
